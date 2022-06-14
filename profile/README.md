@@ -9,7 +9,8 @@ Home for the Analytics department at UMGC.
 1. Be a member of UGMC Analytics 
 2. Have Git installed [__HERE__](https://git-scm.com/downloads)
 3. Have Github Account [__HERE__](https://github.com/join)
-4. Happy Coding 👩‍💻
+4. Keep Confidential Information in Private Repositories 
+5. Happy Coding 👩‍💻
 
 <br>
 
