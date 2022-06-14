@@ -1,7 +1,13 @@
 # University of Marland Global Campus Analytics <a href='https://www.umgc.edu/'><img src='images/analytics_hex_alt.png' align="right" height="138.5" /></a>
 
-Home for Analytics 
+Home for the Analytics department at UMGC. 
 
+## Contribution guidelines
+
+
+## Fun Stuff
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 
