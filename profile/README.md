@@ -29,14 +29,3 @@ Home for the Analytics department at UMGC.
 [![Stephen's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StephenBoyer&hide=html&layout=compact)](https://github.com/StephenBoyer/github-readme-stats)
 
 
-<table border="0">
- <tr>
-    <td><b style="font-size:30px">Title</b></td>
-    <td><b style="font-size:30px">Title 2</b></td>
- </tr>
- <tr>
-    <td>Lorem ipsum ...</td>
-    <td>Lorem ipsum ...</td>
- </tr>
-</table>
-
