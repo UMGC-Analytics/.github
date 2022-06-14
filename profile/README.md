@@ -1,4 +1,4 @@
-# UGMC <a href='https://github.com/UMGC-Analytics'><img src='man/figures/analytics_hex_alt.png' align="right" height="138.5" /></a>
+# UGMC <a href='https://github.com/UMGC-Analytics'><img src='images/analytics_hex_alt.png' align="right" height="138.5" /></a>
 
 
 <!--
