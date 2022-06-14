@@ -15,6 +15,10 @@ Home for the Analytics department at UMGC.
 
 ## Fun Stuff
 
+### Jordan's Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jordan-Krogmann&hide=html&layout=compact)](https://github.com/Jordan-Krogmann/github-readme-stats)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jordan-Krogmann)](https://github.com/Jordan-Krogmann/github-readme-stats)
+
+### Stephen's Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StephenBoyer&hide=html&layout=compact)](https://github.com/StephenBoyer/github-readme-stats)
