@@ -16,8 +16,14 @@ Home for the Analytics department at UMGC.
 ## Fun Stuff
 
 ### Jordan's Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jordan-Krogmann&hide=html&layout=compact)](https://github.com/Jordan-Krogmann/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jordan-Krogmann)](https://github.com/Jordan-Krogmann/github-readme-stats)
+
+![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=issues&show_icons=true&include_all_commits=true)
+
+[![Jordan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jordan-Krogmann&hide=html&layout=compact)](https://github.com/Jordan-Krogmann/github-readme-stats)
+
 
 ### Stephen's Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StephenBoyer&hide=html&layout=compact)](https://github.com/StephenBoyer/github-readme-stats)
+
+![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=StephenBoyer&hide=issues&show_icons=true&include_all_commits=true)
+
+[![Stephen's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StephenBoyer&hide=html&layout=compact)](https://github.com/StephenBoyer/github-readme-stats)
