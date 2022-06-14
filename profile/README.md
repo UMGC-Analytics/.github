@@ -17,11 +17,7 @@ Home for the Analytics department at UMGC.
 
 ### Jordan's Stats
 
-![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jordan-Krogmann&hide=issues&show_icons=true&count_private=true)
-
 ![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jordan-Krogmann&show_icons=true&include_all_commits=true)
-
-![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jordan-Krogmann&hide=issues&show_icons=true&include_all_commits=true)
 
 [![Jordan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jordan-Krogmann&hide=html&layout=compact)](https://github.com/Jordan-Krogmann/github-readme-stats)
 
@@ -29,7 +25,7 @@ Home for the Analytics department at UMGC.
 
 ### Stephen's Stats
 
-![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=StephenBoyer&hide=issues&show_icons=true&count_private=true)
+![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=StephenBoyer&show_icons=true&count_private=true)
 
 [![Stephen's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StephenBoyer&hide=html&layout=compact)](https://github.com/StephenBoyer/github-readme-stats)
 
