@@ -7,7 +7,7 @@ Home for the Analytics department at UMGC.
 
 ## Fun Stuff
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jordan-Krogmann&hide=html)](https://github.com/Jordan-Krogmann/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jordan-Krogmann&hide=html&layout=compact)](https://github.com/Jordan-Krogmann/github-readme-stats)
 
 
 <!--
