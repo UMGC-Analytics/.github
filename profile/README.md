@@ -1,4 +1,4 @@
-# University of Marland Global Campus Analytics <a href='https://www.umgc.edu/'><img src='images/analytics_hex_alt.png' align="right" height="138.5" /></a>
+# University of Marland Global Campus Analytics <a href='https://www.umgc.edu/'><img src='https://raw.githubusercontent.com/UMGC-Analytics/.github/main/images/analytics_hex_alt.png' align="right" height="138.5" /></a>
 
 Home for the Analytics department at UMGC. 
 
