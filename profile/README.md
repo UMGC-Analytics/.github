@@ -25,7 +25,7 @@ Home for the Analytics department at UMGC.
 
 ### Stephen's Stats
 
-![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=StephenBoyer&hide=issues&show_icons=true&include_all_commits=true)
+![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=StephenBoyer&hide=issues&show_icons=true&count_private=true)
 
 [![Stephen's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StephenBoyer&hide=html&layout=compact)](https://github.com/StephenBoyer/github-readme-stats)
 
