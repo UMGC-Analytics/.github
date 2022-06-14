@@ -17,4 +17,4 @@ Home for the Analytics department at UMGC.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jordan-Krogmann&hide=html&layout=compact)](https://github.com/Jordan-Krogmann/github-readme-stats)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StephenBoyer&hide=html&layout=compact)](https://github.com/StephenBoyer/github-readme-stats)
