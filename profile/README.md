@@ -25,6 +25,6 @@ Home for the Analytics department at UMGC.
 ### Stephen's Stats
 
 <p align="center"> <img src="http://github-readme-streak-stats.herokuapp.com?user=StephenBoyer&theme=github-dark-blue" alt="StephenBoyer" />
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephenBoyer&layout=compact&theme=github-dark-blue" alt="StephenBoyer" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephenBoyer&layout=compact&theme=github_dark" alt="StephenBoyer" />
 
 
