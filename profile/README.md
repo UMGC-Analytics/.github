@@ -18,7 +18,7 @@ Home for the Analytics department at UMGC.
 
 ### Jordan's Stats
 
-![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jordan-Krogmann&show_icons=true&include_all_commits=true) ![Jordan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jordan-Krogmann&hide=jupyter%20notebook,html&layout=compact&theme=github-dark-blue)
+![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jordan-Krogmann&show_icons=true&include_all_commits=true&count_private=true) ![Jordan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jordan-Krogmann&hide=jupyter%20notebook,html&layout=compact&theme=github-dark-blue)
 
 
 ### Stephen's Stats
