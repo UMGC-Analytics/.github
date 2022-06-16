@@ -18,11 +18,13 @@ Home for the Analytics department at UMGC.
 
 ### Jordan's Stats
 
-![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jordan-Krogmann&show_icons=true&include_all_commits=true&count_private=true) ![Jordan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jordan-Krogmann&hide=jupyter%20notebook,html&layout=compact&theme=github-dark-blue)
+<p align="center"> <img src="http://github-readme-streak-stats.herokuapp.com?user=Jordan-Krogmann&theme=github-dark-blue" alt="Jordan-Krogmann" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jordan-Krogmann&hide=jupyter%20notebook,html&layout=compact&theme=github-dark-blue" alt="Jordan-Krogmann" />
 
 
 ### Stephen's Stats
 
-![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=StephenBoyer&show_icons=true&count_private=true) [![Stephen's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StephenBoyer&hide=html&layout=compact)](https://github.com/StephenBoyer/github-readme-stats)
+<p align="center"> <img src="http://github-readme-streak-stats.herokuapp.com?user=StephenBoyer&theme=github-dark-blue" alt="StephenBoyer" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephenBoyer&hide=jupyter%20notebook,html&layout=compact&theme=github-dark-blue" alt="StephenBoyer" />
 
 
