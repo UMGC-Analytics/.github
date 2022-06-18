@@ -16,6 +16,8 @@ Home for the Analytics department at UMGC.
 
 ## Fun Stuff
 
+... It's not a competition, but you can clearly see Stephen is losing.
+
 ### Jordan's Stats
 
 <p align="center"> <img src="http://github-readme-streak-stats.herokuapp.com?user=Jordan-Krogmann&theme=github-dark-blue" alt="Jordan-Krogmann" />
