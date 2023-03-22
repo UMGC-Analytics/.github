@@ -14,19 +14,3 @@ Home for the Analytics department at UMGC.
 
 <br>
 
-## Fun Stuff
-
-... It's not a competition, but you can clearly see Stephen is losing.
-
-### Jordan's Stats
-
-<p align="center"> <img src="http://github-readme-streak-stats.herokuapp.com?user=Jordan-Krogmann&theme=github-dark-blue" alt="Jordan-Krogmann" />
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jordan-Krogmann&hide=jupyter%20notebook,html&layout=compact&theme=github_dark" alt="Jordan-Krogmann" />
-
-
-### Stephen's Stats
-
-<p align="center"> <img src="http://github-readme-streak-stats.herokuapp.com?user=StephenBoyer&theme=github-dark-blue" alt="StephenBoyer" />
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephenBoyer&layout=compact&theme=github_dark" alt="StephenBoyer" />
-
-
